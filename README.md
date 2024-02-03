@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Smrutirekha Sahoo</h1>
 <h3 align="center">still learning fullstack web development.</h3>
-
+<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/17707/screenshots/2413754/rrr.gif">
 - 🌱 I’m currently learning **React Native**
 
 - 💬 Ask me about **html,css,javascript,react**
